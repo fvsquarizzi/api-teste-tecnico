@@ -1,6 +1,6 @@
-# API Mundo Invest
+# API Teste Técnico
 
-API interna do desafio Mundo Invest: cadastra clientes, mapeia para um card
+API para o teste técnico da vaga Desenvolvedor Backend: cadastra clientes, mapeia para um card
 simulado no Pipefy e processa um webhook retornado pelo Pipefy para atualizar
 o status e a prioridade do cliente no banco local.
 
